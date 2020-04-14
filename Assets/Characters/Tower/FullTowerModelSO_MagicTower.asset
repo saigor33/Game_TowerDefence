@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20bbbc672abe0604f941ea09569e0fdb, type: 3}
+  m_Name: FullTowerModelSO_MagicTower
+  m_EditorClassIdentifier: 
+  listLavelModels:
+  - {fileID: 11400000, guid: 7dd4afa8a3f3b634ca9be91bd6aa509c, type: 2}
+  - {fileID: 11400000, guid: 9c3c29f08c1942144887df6f0c758582, type: 2}
+  - {fileID: 11400000, guid: d287f2cf10b927a4faa4ca3fa4c49798, type: 2}
+  - {fileID: 11400000, guid: e12e50a3197bf9147bf06390432f645f, type: 2}
+  - {fileID: 11400000, guid: ecd9763555adba3459da53c8fd604e0e, type: 2}
